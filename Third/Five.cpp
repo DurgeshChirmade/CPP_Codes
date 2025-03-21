@@ -58,8 +58,8 @@ public:
         else
         {
             cout << "no2 should be greater than 0." << endl;
+            return no1;
         }
-        return no1/no2;
     }
 };
 
